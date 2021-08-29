@@ -1,14 +1,37 @@
-# Hi there 👋
+![Programmer | Web Developer | Entertainer](https://scontent.fdac10-1.fna.fbcdn.net/v/t1.6435-9/s960x960/150259944_108817094580515_2277746556674519380_n.jpg?_nc_cat=101&ccb=1-5&_nc_sid=e3f864&_nc_eui2=AeFbE5Yyni5BaJA3coINkD8SARMCTuSHAs8BEwJO5IcCz7xi_yUR8xIb7KtiRNupM51MaO6FuCrnn5qxpphUbzSY&_nc_ohc=7WvwUcTjyXwAX-inbbW&_nc_ht=scontent.fdac10-1.fna&oh=0ee2d152d24d5a1dfa81fc9b8f197ff1&oe=615040EE)
+### Hi there 👋, I'm Shah Jalal
+#### Programmer | Web Developer | Entertainer
 
-**ProgrammerShahJalal/ProgrammerShahJalal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a programmer, web developer, and CEO of "Web Design Minds".
 
-Here are some ideas to get you started:
+ I'm an expert in HTML, CSS, REACT, JavaScript, PHP, Laravel, Bootstrap, Tailwind, Node, API, Database, Server, WordPress. I'm also good at Photoshop and Illustrator.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+I'm a focusing person. I love to code, learn and complete my milestone. I am a full-stack Web Developer having valuable experience and serving happy clients around the world with multiple years of experience with successfully completed 500+ projects since 2015.
+
+Happy Web Programming! 🚀🚀🚀
+
+Skills: HTML / CSS / REACT / JavaScript / PHP/ Laravel / Bootstrap / Tailwind / Node / API / Database /  Server
+
+- 🔭 I’m currently working on Fiverr 
+- 🌱 I’m currently learning React 
+- 👯 I’m looking to collaborate on GitHub 
+- 💬 Ask me about Web Development 
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/ProgrammerShahJalal)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/mdshahjalal1/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/msh.farabi.1)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/mdshahjalal01)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/md-shah-jalal)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://webdesignminds.com/)  
+
+<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=ProgrammerShahJalal)](https://github.com/ryo-ma/github-profile-trophy)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ProgrammerShahJalal)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=ProgrammerShahJalal&show_icons=true&count_private=true)  
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=ProgrammerShahJalal)  
+
+![GitHub metrics](https://metrics.lecoq.io/ProgrammerShahJalal)  
+
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=ProgrammerShahJalal)  
+
+![Profile views](https://gpvc.arturio.dev/ProgrammerShahJalal)  
