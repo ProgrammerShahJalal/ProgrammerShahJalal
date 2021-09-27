@@ -24,9 +24,9 @@ Skills: HTML / CSS / REACT / JavaScript / PHP/ Laravel / Bootstrap / Tailwind / 
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ProgrammerShahJalal)](https://github.com/ryo-ma/github-profile-trophy)
 
-<div><span>[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ProgrammerShahJalal)](https://github.com/anuraghazra/github-readme-stats)</span>
+<span>[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ProgrammerShahJalal)](https://github.com/anuraghazra/github-readme-stats)</span>
 
-<span>![GitHub stats](https://github-readme-stats.vercel.app/api?username=ProgrammerShahJalal&show_icons=true&count_private=true)</span></div>
+<span>![GitHub stats](https://github-readme-stats.vercel.app/api?username=ProgrammerShahJalal&show_icons=true&count_private=true)</span>
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=ProgrammerShahJalal)  
 
