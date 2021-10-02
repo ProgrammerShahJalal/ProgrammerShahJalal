@@ -1,23 +1,5 @@
 ![shahjalal](https://user-images.githubusercontent.com/79104097/135716523-c37e7544-5cb3-403e-a427-7e9aed8e37f3.gif)
 
-<div style="-webkit-column-count: 2; -moz-column-count: 2; column-count: 2; -webkit-column-rule: 1px dotted #e0e0e0; -moz-column-rule: 1px dotted #e0e0e0; column-rule: 1px dotted #e0e0e0;">
-    <div style="display: inline-block;">
-        <h2>Good</h2>
-        <pre><code class="language-c">int foo (void) 
-{
-    int i;
-}
-</code></pre>
-    </div>
-    <div style="display: inline-block;">
-        <h2>Bad</h2>
-        <pre><code class="language-c">int foo (void) {
-    int i;
-}
-</code></pre>
-    </div>
-</div>
-
 ### Hi there 👋, I'm Shah Jalal
 #### Programmer | Web Developer | Entertainer
 
