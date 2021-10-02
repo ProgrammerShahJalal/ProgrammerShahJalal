@@ -1,5 +1,5 @@
 | Programmer  | Shah Jalal |
-| ------------- | ------------- |
+| ------------------ | ------------------ |
 |![programmer](https://user-images.githubusercontent.com/79104097/135718464-3c4bef12-ea0c-41fd-8e3b-495b630e9223.gif) | ![shah-jalal](https://user-images.githubusercontent.com/79104097/135718474-ce55a6e0-f18b-4110-8fda-68ec0bc6bfe9.gif)  |
 
 ### Hi there 👋, I'm Shah Jalal
