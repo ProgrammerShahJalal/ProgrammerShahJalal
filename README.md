@@ -19,8 +19,6 @@ Skills: HTML / CSS / REACT / JavaScript / PHP/ Laravel / Bootstrap / Tailwind / 
 - 🌱 I’m currently learning React 
 - 👯 I’m looking to collaborate on GitHub 
 - 💬 Ask me about Web Development 
-- 
-![45666-valentine-day-gift-calendar](https://user-images.githubusercontent.com/79104097/135716148-7eb50c4b-214d-48c5-95c2-03f7d880f147.gif)
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/ProgrammerShahJalal)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/mdshahjalal1/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/msh.farabi.1)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/mdshahjalal01)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/md-shah-jalal)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://webdesignminds.com/)  
 
@@ -38,4 +36,6 @@ Skills: HTML / CSS / REACT / JavaScript / PHP/ Laravel / Bootstrap / Tailwind / 
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=ProgrammerShahJalal)  
 
-![Profile views](https://gpvc.arturio.dev/ProgrammerShahJalal)  
+![Profile views](https://gpvc.arturio.dev/ProgrammerShahJalal) 
+![programmer-shah-jalal](https://user-images.githubusercontent.com/79104097/135717662-627c5a56-3d7a-4576-8882-3d6f5fd7c926.gif)
+
