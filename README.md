@@ -1,8 +1,7 @@
-| Programmer  | Shah Jalal |
+| First Header  | Second Header |
 | ------------- | ------------- |
-| ![programmer](https://user-images.githubusercontent.com/79104097/135718254-c8d45fdd-60df-4fc9-8bbd-b21c547733aa.gif) | 
-|
-| Content Cell  |  ![shah-jalal](https://user-images.githubusercontent.com/79104097/135718278-6692fa9d-a9fe-46e8-92d9-3a4c2ade970b.gif) |
+| Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  |
 
 
 ### Hi there 👋, I'm Shah Jalal
