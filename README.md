@@ -1,4 +1,4 @@
-<a src="![shahjalal](https://user-images.githubusercontent.com/79104097/135716523-c37e7544-5cb3-403e-a427-7e9aed8e37f3.gif)"/>
+![shahjalal](https://user-images.githubusercontent.com/79104097/135716523-c37e7544-5cb3-403e-a427-7e9aed8e37f3.gif)
 
 ### Hi there 👋, I'm Shah Jalal
 #### Programmer | Web Developer | Entertainer
