@@ -1,4 +1,4 @@
-![46207-programmer](https://user-images.githubusercontent.com/79104097/135716070-904cf979-fac5-4fd1-ad10-22e7a6a24845.gif)
+![46207-programmer](<img src="https://user-images.githubusercontent.com/79104097/135716070-904cf979-fac5-4fd1-ad10-22e7a6a24845.gif" width="100" height="100" />)
 
 ### Hi there 👋, I'm Shah Jalal
 #### Programmer | Web Developer | Entertainer
