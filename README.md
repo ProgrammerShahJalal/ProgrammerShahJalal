@@ -1,4 +1,4 @@
-![placeorder](https://user-images.githubusercontent.com/79104097/135714972-abb373ba-48f8-4d79-ab8d-94ac73f82145.gif)
+https://assets2.lottiefiles.com/packages/lf20_iorpbol0.json
 
 ### Hi there 👋, I'm Shah Jalal
 #### Programmer | Web Developer | Entertainer
