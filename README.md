@@ -1,7 +1,7 @@
 ![shah-jalal](https://user-images.githubusercontent.com/79104097/135717540-913ecea4-1e18-45b3-8de8-bfc266194c44.gif)
 | First Header  | Second Header |
 | ------------- | ------------- |
-| Content Cell  | Content Cell  |
+| ![programmer-shah-jalal](https://user-images.githubusercontent.com/79104097/135717662-627c5a56-3d7a-4576-8882-3d6f5fd7c926.gif) | Content Cell  |
 
 
 ### Hi there 👋, I'm Shah Jalal
@@ -39,5 +39,3 @@ Skills: HTML / CSS / REACT / JavaScript / PHP/ Laravel / Bootstrap / Tailwind / 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=ProgrammerShahJalal)  
 
 ![Profile views](https://gpvc.arturio.dev/ProgrammerShahJalal) 
-![programmer-shah-jalal](https://user-images.githubusercontent.com/79104097/135717662-627c5a56-3d7a-4576-8882-3d6f5fd7c926.gif)
-
