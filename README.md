@@ -7,7 +7,7 @@
 
 I am a programmer, web developer, and CEO of "Web Design Minds".
 
- I'm an expert in HTML, CSS, REACT, JavaScript, PHP, Laravel, Bootstrap, Tailwind, Node, API, Database, Server, WordPress. I'm also good at Photoshop and Illustrator.
+👉I'm an expert in HTML, CSS, REACT, JavaScript, PHP, Laravel, Bootstrap, Tailwind, Node, API, Database, Server, WordPress. I'm also good at Photoshop and Illustrator.
 
 I'm a focusing person. I love to code, learn and complete my milestone. I am a full-stack Web Developer having valuable experience and serving happy clients around the world with multiple years of experience with successfully completed 500+ projects since 2015.
 
