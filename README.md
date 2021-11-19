@@ -16,7 +16,7 @@ Happy Web Programming! 🚀🚀🚀
 Skills: HTML / CSS / REACT / JavaScript / PHP/ Laravel / Bootstrap / Tailwind / Node / API / Database /  Server
 
 - 🔭 I’m currently working on Fiverr 
-- 🌱 I’m currently learning Authentication 
+- 🌱 I’m currently learning Server Management 
 - 👯 I’m looking to collaborate on GitHub 
 - 💬 Ask me about Web Development 
 
