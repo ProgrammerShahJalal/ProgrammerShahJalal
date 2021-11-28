@@ -7,18 +7,13 @@
 
 I am a programmer, web developer, and CEO of "Web Design Minds".
 
-👉I'm an expert in HTML, CSS, REACT, JavaScript, PHP, Laravel, Bootstrap, Tailwind, Node, API, Database, Server, WordPress. I'm also good at Photoshop and Illustrator.
+👉I'm an expert in HTML, CSS, REACT, JavaScript, Bootstrap, Tailwind, Node JS, Express JS, MongoDB, Material UI, React Bootstrap, React Router, React Hook Form, Firebase Authentication, WordPress. I'm also good at Photoshop and Illustrator.
 
-I'm a focusing person. I love to code, learn and complete my milestone. I am a full-stack Web Developer having valuable experience and serving happy clients around the world with multiple years of experience with successfully completed 500+ projects since 2015.
+I'm a focusing person. I love to code, learn and complete my milestone.
 
 Happy Web Programming! 🚀🚀🚀
 
-Skills: HTML / CSS / REACT / JavaScript / PHP/ Laravel / Bootstrap / Tailwind / Node / API / Database /  Server
-
-- 🔭 I’m currently working on Fiverr 
-- 🌱 I’m currently learning Server Management 
-- 👯 I’m looking to collaborate on GitHub 
-- 💬 Ask me about Web Development 
+Skills: HTML / CSS / REACT / JavaScript / Express JS/ Node JS / Bootstrap / Tailwind / MongoDB / Material UI / Firebase Authentication
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/ProgrammerShahJalal)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/mdshahjalal1/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/msh.farabi.1)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/mdshahjalal01)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/md-shah-jalal)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://webdesignminds.com/)  
 
