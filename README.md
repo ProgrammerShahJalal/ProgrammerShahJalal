@@ -5,13 +5,13 @@
 ### Hi there 👋, I'm Shah Jalal
 #### Programmer | Web Developer | Programmer Lover
 
-👉I'm an expert in HTML, CSS, REACT, JavaScript, Bootstrap, Tailwind, Node JS, Express JS, MongoDB, Material UI, React Bootstrap, React Router, React Hook Form, Firebase Authentication, WordPress. I'm also good at Photoshop and Illustrator.
+I'm an expert in HTML, CSS, REACT, JavaScript, Bootstrap, Tailwind, Node JS, Express JS, MongoDB, Material UI, React Bootstrap, React Router, React Hook Form, Firebase Authentication, WordPress. I'm also good at Photoshop and Illustrator.
 
 I'm a focusing person. I love to code, learn and complete my milestone.
 
 Happy Web Programming! 🚀🚀🚀
 
-Skills: HTML / CSS / REACT / JavaScript / Express JS/ Node JS / Bootstrap / Tailwind / MongoDB / Material UI / Firebase Authentication
+🎯 Skills: HTML / CSS / REACT / JavaScript / Express JS/ Node JS / Bootstrap / Tailwind / MongoDB / Material UI / Firebase Authentication 🎯
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/ProgrammerShahJalal)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/mdshahjalal1/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/msh.farabi.1)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/mdshahjalal01)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/md-shah-jalal)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://webdesignminds.com/)  
 
