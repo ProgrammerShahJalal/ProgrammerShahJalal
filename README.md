@@ -7,7 +7,7 @@
 
 ## [MY PORTFOLIO](https://shah-jalal-portfolio.netlify.app/)
 
-I'm an expert in HTML, CSS, REACT, JavaScript, Bootstrap, Tailwind, Node JS, Express JS, MongoDB, Material UI, React Bootstrap, React Router, React Hook Form, Firebase Authentication, WordPress. I'm also good at Photoshop and Illustrator.
+I'm an expert in HTML, CSS, REACT, JavaScript, Bootstrap, Tailwind, Node JS, Express JS, MongoDB, Material UI, React Bootstrap, TypeScript, Tailwind, React Router, React Hook Form, Firebase Authentication, WordPress. I'm also good at Photoshop and Illustrator.
 
 I'm a focusing person. I love to code, learn and complete my milestone.
 
