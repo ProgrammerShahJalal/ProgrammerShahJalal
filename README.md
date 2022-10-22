@@ -19,7 +19,7 @@ I'm a focusing person. I love to code, learn and complete my milestone.
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ProgrammerShahJalal)](https://github.com/ryo-ma/github-profile-trophy)
 
-<span>[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ProgrammerShahJalal&langs_count=7)](https://github.com/anuraghazra/github-readme-stats)
+<span>[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ProgrammerShahJalal&langs_count=7&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <span>![GitHub stats](https://github-readme-stats.vercel.app/api?username=ProgrammerShahJalal&show_icons=true&count_private=true)</span></span>
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=ProgrammerShahJalal)  
 
