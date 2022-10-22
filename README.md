@@ -25,6 +25,6 @@ I'm a focusing person. I love to code, learn and complete my milestone.
 
 ![GitHub metrics](https://metrics.lecoq.io/ProgrammerShahJalal)  
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=ProgrammerShahJalal&theme=gruvbox)  
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=ProgrammerShahJalal&theme=synthwave)  
 
 ![Profile views](https://gpvc.arturio.dev/ProgrammerShahJalal) 
