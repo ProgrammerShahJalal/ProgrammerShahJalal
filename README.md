@@ -21,10 +21,10 @@ I'm a focusing person. I love to code, learn and complete my milestone.
 
 <span>[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ProgrammerShahJalal&langs_count=5&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 <span>![GitHub stats](https://github-readme-stats.vercel.app/api?username=ProgrammerShahJalal&show_icons=true&count_private=true&theme=dark)</span></span>
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=ProgrammerShahJalal)  
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=ProgrammerShahJalal&theme=dark)  
 
 ![GitHub metrics](https://metrics.lecoq.io/ProgrammerShahJalal)  
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=ProgrammerShahJalal)  
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=ProgrammerShahJalal&theme=dark)  
 
-![Profile views](https://gpvc.arturio.dev/ProgrammerShahJalal) 
+![Profile views](https://gpvc.arturio.dev/ProgrammerShahJalal&theme=dark) 
