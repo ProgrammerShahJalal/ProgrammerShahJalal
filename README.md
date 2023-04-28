@@ -6,6 +6,7 @@
 #### Programmer | Full Stack Web Developer | Student of Jahangirnagar University
 
 ## [MY PORTFOLIO](https://shah-jalal-portfolio.netlify.app/)
+## [MY LINKEDIN](https://www.linkedin.com/in/ProgrammerShahJalal/)
 
 <span>I'm an expert in HTML, CSS, REACT, JavaScript, Bootstrap, Tailwind, Node JS, Express JS, MongoDB, Material UI, React Bootstrap, TypeScript, Tailwind, React Router, React Hook Form, Firebase Authentication, WordPress, Data Structures, Algorithms, OOP & Database, Cloud Computing / AWS, Problem Solving.
 
