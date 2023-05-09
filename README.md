@@ -2,7 +2,7 @@
 | ------------------ | ------------------ |
 |![programmer](https://user-images.githubusercontent.com/79104097/135718464-3c4bef12-ea0c-41fd-8e3b-495b630e9223.gif) | ![shah-jalal](https://user-images.githubusercontent.com/79104097/135718474-ce55a6e0-f18b-4110-8fda-68ec0bc6bfe9.gif)  |
 
-## Hi there my gorgeous friend <img src="assets/hello.gif" width="28px" alt="hi">
+## Hi there my gorgeous friend <img src="hello.gif" width="28px" alt="hi">
 #### Programmer | Full Stack Web Developer | Student of Jahangirnagar University
 
 ## [MY PORTFOLIO](https://shah-jalal-portfolio.netlify.app/)
