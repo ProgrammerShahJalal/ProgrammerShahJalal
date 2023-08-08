@@ -12,7 +12,7 @@
 
 I'm a focused person. I love to code, learn and complete my milestone.
 
-  Happy Web Programming! 🚀🚀🚀</span> <br/>
+  Happy Web Programming! 🚀🚀🚀</span> <br/><br/>
   Give Review: https://www.provenexpert.com/en-us/md-shah-jalal/ <be/>
  #### 🎯 Skills: HTML / CSS / REACT / JavaScript / Express JS/ Node JS / Bootstrap / React Bootstrap / MongoDB / Material UI / Firebase Authentication 🎯
 
@@ -20,12 +20,6 @@ I'm a focused person. I love to code, learn and complete my milestone.
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ProgrammerShahJalal&theme=dark)](https://github.com/ryo-ma/github-profile-trophy)
 
-<span>[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ProgrammerShahJalal&langs_count=5&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-<span>![GitHub stats](https://github-readme-stats.vercel.app/api?username=ProgrammerShahJalal&show_icons=true&count_private=true&theme=tokyonight)</span></span>
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=ProgrammerShahJalal)  
-
-![GitHub metrics](https://metrics.lecoq.io/ProgrammerShahJalal)  
-
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=ProgrammerShahJalal&theme=tokyonight)  
+<span>[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?
 
 ![Profile views](https://gpvc.arturio.dev/ProgrammerShahJalal) 
