@@ -3,8 +3,12 @@
 
 #### Software Engineer | Full Stack Developer | MERN Stack Developer
 
-## [MY PORTFOLIO](https://shah-jalal.netlify.app/)
-## [MY LINKEDIN](https://www.linkedin.com/in/ProgrammerShahJalal/)
+<table>
+  <tr>
+    <td><a href="https://shah-jalal.netlify.app/" style="font-size:48px; font-weight:bold;">PORTFOLIO</a></td>
+    <td><a href="https://www.linkedin.com/in/ProgrammerShahJalal/" style="font-size:48px; font-weight:bold;">LINKEDIN</a></td>
+  </tr>
+</table>
 
 <span>I'm an expert in HTML, CSS, REACT, JavaScript, Bootstrap, Tailwind, Node JS, Express JS, MongoDB, Material UI, React Bootstrap, TypeScript, Tailwind, React Router, React Hook Form, Firebase Authentication, WordPress, Data Structures, Algorithms, OOP & Database, Cloud Computing / AWS, Problem Solving.
 
