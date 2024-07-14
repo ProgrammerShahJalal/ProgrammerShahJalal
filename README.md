@@ -1,5 +1,5 @@
 ## Hi there my gorgeous friend <img src="hello.gif" width="28px" alt="hi">
-<a href="https://app.daily.dev/mdshahjalal"><img src="https://api.daily.dev/devcards/v2/2IQlsR4aCwwzFhFnsyxAx.png?type=wide&r=gs3" width="100%" alt="Md Shah Jalal's Dev Card"/></a>
+<a href="https://app.daily.dev/mdshahjalal"><img src="https://api.daily.dev/devcards/v2/2IQlsR4aCwwzFhFnsyxAx.png?type=wide&r=in6" width="652" alt="Shah Jalal's Dev Card"/></a>
 
 #### Software Engineer | Full Stack Developer | MERN Stack Developer
 
