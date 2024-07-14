@@ -1,7 +1,5 @@
 ## Hi there my gorgeous friend <img src="hello.gif" width="28px" alt="hi">
-| Software Engineer | Shah Jalal |
-| ------------------ | ------------------ |
-|![shah-jalal](https://user-images.githubusercontent.com/79104097/135718474-ce55a6e0-f18b-4110-8fda-68ec0bc6bfe9.gif) |<a href="https://app.daily.dev/mdshahjalal"><img src="https://api.daily.dev/devcards/v2/2IQlsR4aCwwzFhFnsyxAx.png?type=default&r=gs3" width="356" alt="Md Shah Jalal's Dev Card"/></a> |
+<a href="https://app.daily.dev/mdshahjalal"><img src="https://api.daily.dev/devcards/v2/2IQlsR4aCwwzFhFnsyxAx.png?type=wide&r=gs3" width="652" alt="Md Shah Jalal's Dev Card"/></a>
 
 #### Software Engineer | Full Stack Developer | MERN Stack Developer
 
