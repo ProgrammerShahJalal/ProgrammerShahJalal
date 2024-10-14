@@ -7,6 +7,7 @@
   <tr>
     <td><a href="https://shah-jalal.netlify.app/" style="font-size:48px; font-weight:bold;">PORTFOLIO</a></td>
     <td><a href="https://www.linkedin.com/in/ProgrammerShahJalal/" style="font-size:48px; font-weight:bold;">LINKEDIN</a></td>
+     <td><a href="https://shorturl.at/CIPT1" style="font-size:48px; font-weight:bold;">GOOGLE MY BUSINESS</a></td>
   </tr>
 </table>
 
