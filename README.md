@@ -32,7 +32,7 @@
 - **Mobile Development:** React Native
 - **Data Visualization:** ChartJs, MarkMapJs
 - **Testing:** Vitest, Jest
-- **DevOps & Cloud:** Docker, AWS, GraphQL
+- **DevOps & Cloud:** Docker, AWS
 - **Other:** Web Scraping, Data Analysis, NPM
 
 ---
