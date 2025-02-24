@@ -19,9 +19,9 @@
 #### Expertise:
 - **Programming Languages:** C, C++, JavaScript, TypeScript, Python
 - **Frontend Development:** HTML5, CSS3, React, Next.js, Bootstrap, Material UI, TailwindCSS, React Router
-- **Backend Development:** Node.js, Express.js, Django
+- **Backend Development:** Node.js, Express.js, Django, Fastify
 - **Databases:** MySQL, MongoDB, Mongoose, PostgreSQL, Prisma
-- **Other Skills:** Data Structures, Algorithms, OOP, Problem Solving, Firebase Authentication, RESTful APIs, JWT
+- **Other Skills:** Data Structures, Algorithms, OOP, Problem Solving, Firebase Authentication, RESTful APIs, JWT, GraphQL
 
 #### Comfortable:
 - **Databases:** DBMS, SQL
