@@ -1,108 +1,148 @@
+# Hi there, I'm Shah Jalal <img src="hello.gif" width="28px" alt="hi">
+
 <div align="center">
+  <a href="https://app.daily.dev/mdshahjalal">
+    <img src="https://api.daily.dev/devcards/v2/2IQlsR4aCwwzFhFnsyxAx.png?type=wide&r=nki" width="652" alt="Shah Jalal's Dev Card"/>
+  </a>
+</div>
 
-# Hi, I'm Shah Jalal 👋
+## 👨‍💻 Software Engineer | Full Stack Developer | MERN Stack Specialist
 
-**Software Engineer · Full Stack Developer · MERN Stack Specialist**
-
-Based in Bangladesh — building scalable web apps with modern tools.
-
-[![Portfolio](https://img.shields.io/badge/Learn%20More%20About%20Me-%23FF5722.svg?style=for-the-badge&logo=todoist&logoColor=white)](https://shah-jalal.netlify.app/)
+<div align="center">
+  
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://shah-jalal.netlify.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ProgrammerShahJalal/)
+[![Google Business](https://img.shields.io/badge/Google_Business-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://shorturl.at/CIPT1)
 
 </div>
 
 ---
 
-## 🛠️ Technical Skills
+## 🚀 Tech Stack
 
 ### ⚡ Expertise
 
-![C](https://img.shields.io/badge/C-teal?style=flat-square&labelColor=white&color=white&logoColor=teal)
-![C++](https://img.shields.io/badge/C%2B%2B-white?style=flat-square&color=white)
-![MySQL](https://img.shields.io/badge/MySQL-white?style=flat-square&color=white)
-![Data Structures](https://img.shields.io/badge/Data%20Structures-white?style=flat-square&color=white)
-![Algorithms](https://img.shields.io/badge/Algorithms-white?style=flat-square&color=white)
-![OOP & Database](https://img.shields.io/badge/OOP%20%26%20Database-white?style=flat-square&color=white)
-![Node.js](https://img.shields.io/badge/Node.js-white?style=flat-square&color=white)
-![Express.js](https://img.shields.io/badge/Express.js-white?style=flat-square&color=white)
-![Next.js](https://img.shields.io/badge/Next.js-white?style=flat-square&color=white)
-![NestJS](https://img.shields.io/badge/NestJS-white?style=flat-square&color=white)
-![MikroORM](https://img.shields.io/badge/MikroORM-white?style=flat-square&color=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-white?style=flat-square&color=white)
-![Mongoose](https://img.shields.io/badge/Mongoose-white?style=flat-square&color=white)
-![React](https://img.shields.io/badge/React-white?style=flat-square&color=white)
-![HTML5](https://img.shields.io/badge/HTML5-white?style=flat-square&color=white)
-![CSS3](https://img.shields.io/badge/CSS3-white?style=flat-square&color=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-white?style=flat-square&color=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-white?style=flat-square&color=white)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-white?style=flat-square&color=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-white?style=flat-square&color=white)
-![Material UI](https://img.shields.io/badge/Material%20UI-white?style=flat-square&color=white)
-![Redux](https://img.shields.io/badge/Redux-white?style=flat-square&color=white)
-![React Router](https://img.shields.io/badge/React%20Router-white?style=flat-square&color=white)
-![GSAP](https://img.shields.io/badge/GSAP-white?style=flat-square&color=white)
-![Framer Motion](https://img.shields.io/badge/Framer%20Motion-white?style=flat-square&color=white)
-![Lenis](https://img.shields.io/badge/Lenis-white?style=flat-square&color=white)
-![Firebase Auth](https://img.shields.io/badge/Firebase%20Auth-white?style=flat-square&color=white)
-![Problem Solving](https://img.shields.io/badge/Problem%20Solving-white?style=flat-square&color=white)
+**Languages**
+```
+C • C++ • JavaScript • TypeScript • Python
+```
 
-### 🚀 Comfortable
+**Frontend**
+```
+React • Next.js • HTML5 • CSS3 • Bootstrap • Material UI • TailwindCSS • Redux • React Router
+```
 
-![DBMS](https://img.shields.io/badge/DBMS-white?style=flat-square&color=white)
-![SQL](https://img.shields.io/badge/SQL-white?style=flat-square&color=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-white?style=flat-square&color=white)
-![Prisma](https://img.shields.io/badge/Prisma-white?style=flat-square&color=white)
-![Python](https://img.shields.io/badge/Python-white?style=flat-square&color=white)
-![Django](https://img.shields.io/badge/Django-white?style=flat-square&color=white)
-![WordPress](https://img.shields.io/badge/WordPress-white?style=flat-square&color=white)
-![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-white?style=flat-square&color=white)
-![JWT](https://img.shields.io/badge/JWT-white?style=flat-square&color=white)
-![Restful API](https://img.shields.io/badge/Restful%20API-white?style=flat-square&color=white)
-![Fastify](https://img.shields.io/badge/Fastify-white?style=flat-square&color=white)
-![CPanel](https://img.shields.io/badge/CPanel-white?style=flat-square&color=white)
+**Backend**
+```
+Node.js • Express.js • NestJS • Django • Fastify • RESTful API • JWT • GraphQL
+```
+
+**Database & ORM**
+```
+MySQL • MongoDB • Mongoose • MikroORM • PostgreSQL • Prisma
+```
+
+**Core Concepts**
+```
+Data Structures • Algorithms • OOP • Database Design • Problem Solving
+```
+
+**Authentication & Security**
+```
+Firebase Authentication • JWT • OAuth
+```
+
+---
+
+### 🔥 Comfortable
+
+<div align="left">
+  
+![DBMS](https://img.shields.io/badge/DBMS-336791?style=flat-square&logo=database&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white)
+![React Hook Form](https://img.shields.io/badge/React_Hook_Form-EC5990?style=flat-square&logo=reacthookform&logoColor=white)
+
+</div>
+
+---
 
 ### 📚 Familiar
 
-![React Native](https://img.shields.io/badge/React%20Native-white?style=flat-square&color=white)
-![Chart.js](https://img.shields.io/badge/Chart.js-white?style=flat-square&color=white)
-![Docker](https://img.shields.io/badge/Docker-white?style=flat-square&color=white)
-![AWS](https://img.shields.io/badge/AWS-white?style=flat-square&color=white)
-![GraphQL](https://img.shields.io/badge/GraphQL-white?style=flat-square&color=white)
-![Vitest](https://img.shields.io/badge/Vitest-white?style=flat-square&color=white)
-![Jest](https://img.shields.io/badge/Jest-white?style=flat-square&color=white)
-![Web Scraping](https://img.shields.io/badge/Web%20Scraping-white?style=flat-square&color=white)
-![Data Analysis](https://img.shields.io/badge/Data%20Analysis-white?style=flat-square&color=white)
-![NPM](https://img.shields.io/badge/NPM-white?style=flat-square&color=white)
-![YARN](https://img.shields.io/badge/YARN-white?style=flat-square&color=white)
+<div align="left">
 
-### 🔧 Tools
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Chart.js](https://img.shields.io/badge/Chart.js-FF6384?style=flat-square&logo=chartdotjs&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=flat-square&logo=vitest&logoColor=white)
+![Jest](https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=jest&logoColor=white)
+![Web Scraping](https://img.shields.io/badge/Web_Scraping-47A248?style=flat-square&logo=python&logoColor=white)
+![Data Analysis](https://img.shields.io/badge/Data_Analysis-013243?style=flat-square&logo=pandas&logoColor=white)
 
-![GitHub](https://img.shields.io/badge/GitHub-white?style=flat-square&color=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-white?style=flat-square&color=white)
-![Postman](https://img.shields.io/badge/Postman-white?style=flat-square&color=white)
-![Figma](https://img.shields.io/badge/Figma-white?style=flat-square&color=white)
-![Jira](https://img.shields.io/badge/Jira-white?style=flat-square&color=white)
-![Trello](https://img.shields.io/badge/Trello-white?style=flat-square&color=white)
-![Slack](https://img.shields.io/badge/Slack-white?style=flat-square&color=white)
-![Firebase](https://img.shields.io/badge/Firebase-white?style=flat-square&color=white)
-![Netlify](https://img.shields.io/badge/Netlify-white?style=flat-square&color=white)
-![Vercel](https://img.shields.io/badge/Vercel-white?style=flat-square&color=white)
-![Heroku](https://img.shields.io/badge/Heroku-white?style=flat-square&color=white)
-![Render](https://img.shields.io/badge/Render-white?style=flat-square&color=white)
-![Chrome Dev Tools](https://img.shields.io/badge/Chrome%20Dev%20Tools-white?style=flat-square&color=white)
+</div>
+
+---
+
+## 🛠️ Tools & Platforms
+
+<div align="left">
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)
+![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
+![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+
+</div>
 
 ---
 
 ## 💡 Soft Skills
 
-![Leadership](https://img.shields.io/badge/✨%20Leadership-F3E8FF?style=flat-square&color=F3E8FF&labelColor=F3E8FF)
-![Communication](https://img.shields.io/badge/✨%20Communication-F3E8FF?style=flat-square&color=F3E8FF&labelColor=F3E8FF)
-![Active Listening](https://img.shields.io/badge/✨%20Active%20Listening-F3E8FF?style=flat-square&color=F3E8FF&labelColor=F3E8FF)
-![Quick Learner](https://img.shields.io/badge/✨%20Quick%20Learner-F3E8FF?style=flat-square&color=F3E8FF&labelColor=F3E8FF)
-![Hard Working](https://img.shields.io/badge/✨%20Hard%20Working-F3E8FF?style=flat-square&color=F3E8FF&labelColor=F3E8FF)
+- 🎯 **Leadership** - Leading teams and driving projects to success
+- 💬 **Communication** - Clear and effective stakeholder engagement
+- 👂 **Active Listening** - Understanding requirements and feedback
+- 🚀 **Quick Learner** - Rapidly adapting to new technologies
+- 💪 **Hard Working** - Committed to delivering quality results
+
+---
+
+## 🏆 GitHub Achievements
+
+<div align="left">
+  <a href='https://archiveprogram.github.com/'>
+    <img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'>
+  </a>
+  <a href='https://docs.github.com/en/developers'>
+    <img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'>
+  </a>
+  <a href='https://github.com/pricing'>
+    <img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'>
+  </a>
+  <a href='https://stars.github.com/'>
+    <img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'>
+  </a>
+  <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'>
+    <img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'>
+  </a>
+</div>
 
 ---
 
 <div align="center">
-  <i>Curious about my projects, experience & achievements?</i><br><br>
-  <a href="https://shah-jalal.netlify.app/"><strong>👉 Visit my portfolio</strong></a>
+  <i>Let's connect and build something amazing together!</i>
 </div>
