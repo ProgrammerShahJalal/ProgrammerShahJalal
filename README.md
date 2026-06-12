@@ -46,43 +46,72 @@
 
 #### 💻 Languages
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=c,cpp,js,ts,py&theme=dark" height="48" alt="Languages" />
-</p>
+<table>
+  <tr>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=c" width="48" height="48" alt="C"/><br/><sub><b>C</b></sub></td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=cpp" width="48" height="48" alt="C++"/><br/><sub><b>C++</b></sub></td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=js" width="48" height="48" alt="JavaScript"/><br/><sub><b>JavaScript</b></sub></td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=ts" width="48" height="48" alt="TypeScript"/><br/><sub><b>TypeScript</b></sub></td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=py" width="48" height="48" alt="Python"/><br/><sub><b>Python</b></sub></td>
+  </tr>
+</table>
 
 #### 🎨 Frontend
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,bootstrap,materialui,tailwind,redux&theme=dark" height="48" alt="Frontend" />&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/reactrouter/F44250" width="40" height="48" alt="React Router" title="React Router" />
-</p>
+<table>
+  <tr>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React"/><br/><sub><b>React</b></sub></td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=nextjs" width="48" height="48" alt="Next.js"/><br/><sub><b>Next.js</b></sub></td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML5"/><br/><sub><b>HTML5</b></sub></td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS3"/><br/><sub><b>CSS3</b></sub></td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="TailwindCSS"/><br/><sub><b>TailwindCSS</b></sub></td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48" alt="Bootstrap"/><br/><sub><b>Bootstrap</b></sub></td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=materialui" width="48" height="48" alt="Material UI"/><br/><sub><b>Material UI</b></sub></td>
+  </tr>
+  <tr>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=redux" width="48" height="48" alt="Redux"/><br/><sub><b>Redux</b></sub></td>
+    <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/svg/1f43b.svg" width="40" height="48" alt="Zustand"/><br/><sub><b>Zustand</b></sub></td>
+    <td align="center" width="96"><img src="https://cdn.simpleicons.org/reactrouter/F44250" width="42" height="48" alt="React Router"/><br/><sub><b>React Router</b></sub></td>
+    <td align="center" width="96"><img src="https://cdn.simpleicons.org/framer/0090FF" width="42" height="48" alt="Framer Motion"/><br/><sub><b>Framer Motion</b></sub></td>
+    <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/svg/1f39e.svg" width="40" height="48" alt="GSAP"/><br/><sub><b>GSAP</b></sub></td>
+    <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/svg/1f300.svg" width="40" height="48" alt="Lenis"/><br/><sub><b>Lenis</b></sub></td>
+    <td align="center" width="96"></td>
+  </tr>
+</table>
 
 #### ⚙️ Backend
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,django,graphql&theme=dark" height="48" alt="Backend" />&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/fastify/9CA3AF" width="40" height="48" alt="Fastify" title="Fastify" />&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/jsonwebtokens/D63AFF" width="40" height="48" alt="JWT" title="JWT" />
-</p>
-
-> Also: RESTful API design, MikroORM-powered NestJS services & multi-tenant architectures
+<table>
+  <tr>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Node.js"/><br/><sub><b>Node.js</b></sub></td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=express" width="48" height="48" alt="Express.js"/><br/><sub><b>Express.js</b></sub></td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=nestjs" width="48" height="48" alt="NestJS"/><br/><sub><b>NestJS</b></sub></td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=django" width="48" height="48" alt="Django"/><br/><sub><b>Django</b></sub></td>
+    <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/svg/1f310.svg" width="40" height="48" alt="RESTful API"/><br/><sub><b>RESTful API</b></sub></td>
+  </tr>
+</table>
 
 #### 🗄️ Database & ORM
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres,prisma&theme=dark" height="48" alt="Database" />&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/mongoose/CC3333" width="40" height="48" alt="Mongoose" title="Mongoose" />
-</p>
-
-> Also: MikroORM (TypeScript ORM), schema design & query optimization
+<table>
+  <tr>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB"/><br/><sub><b>MongoDB</b></sub></td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="MySQL"/><br/><sub><b>MySQL</b></sub></td>
+    <td align="center" width="96"><img src="https://cdn.simpleicons.org/mongoose/CC3333" width="42" height="48" alt="Mongoose"/><br/><sub><b>Mongoose</b></sub></td>
+    <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/svg/1f43f.svg" width="40" height="48" alt="MikroORM"/><br/><sub><b>MikroORM</b></sub></td>
+  </tr>
+</table>
 
 #### 🔐 Authentication & Security
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=firebase&theme=dark" height="48" alt="Firebase" />&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/jsonwebtokens/D63AFF" width="40" height="48" alt="JWT" title="JWT" />&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/auth0/EB5424" width="40" height="48" alt="OAuth / Auth0" title="OAuth" />
-</p>
+<table>
+  <tr>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=firebase" width="48" height="48" alt="Firebase Auth"/><br/><sub><b>Firebase Auth</b></sub></td>
+    <td align="center" width="96"><img src="https://cdn.simpleicons.org/jsonwebtokens/D63AFF" width="42" height="48" alt="JWT"/><br/><sub><b>JWT</b></sub></td>
+    <td align="center" width="96"><img src="https://cdn.simpleicons.org/passport/34E27A" width="42" height="48" alt="Passport.js"/><br/><sub><b>Passport.js</b></sub></td>
+    <td align="center" width="96"><img src="https://cdn.simpleicons.org/auth0/EB5424" width="42" height="48" alt="OAuth"/><br/><sub><b>OAuth</b></sub></td>
+  </tr>
+</table>
 
 #### 🧠 Core Concepts
 
@@ -100,52 +129,88 @@
 
 ### 🔥 Comfortable
 
-<p align="left">
-
-  <img src="https://img.shields.io/badge/DBMS-336791?style=for-the-badge&logo=databricks&logoColor=white" alt="DBMS" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" />
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" alt="Prisma" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django" />
-  <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="WordPress" />
-  <img src="https://img.shields.io/badge/React_Hook_Form-EC5990?style=for-the-badge&logo=reacthookform&logoColor=white" alt="React Hook Form" />
-
-</p>
+<table>
+  <tr>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="PostgreSQL"/><br/><sub><b>PostgreSQL</b></sub></td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=prisma" width="48" height="48" alt="Prisma"/><br/><sub><b>Prisma</b></sub></td>
+    <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/svg/1f5c4.svg" width="40" height="48" alt="DBMS"/><br/><sub><b>DBMS</b></sub></td>
+    <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/svg/1f5c3.svg" width="40" height="48" alt="SQL"/><br/><sub><b>SQL</b></sub></td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=wordpress" width="48" height="48" alt="WordPress"/><br/><sub><b>WordPress</b></sub></td>
+    <td align="center" width="96"><img src="https://cdn.simpleicons.org/reacthookform/EC5990" width="42" height="48" alt="React Hook Form"/><br/><sub><b>React Hook Form</b></sub></td>
+    <td align="center" width="96"><img src="https://cdn.simpleicons.org/fastify/9CA3AF" width="42" height="48" alt="Fastify"/><br/><sub><b>Fastify</b></sub></td>
+  </tr>
+  <tr>
+    <td align="center" width="96"><img src="https://cdn.simpleicons.org/reactquery/FF4154" width="42" height="48" alt="TanStack"/><br/><sub><b>TanStack</b></sub><br/><sub>Query · Form · Router · Table</sub></td>
+    <td align="center" width="96"><img src="https://cdn.simpleicons.org/zod/3068B7" width="42" height="48" alt="Zod"/><br/><sub><b>Zod</b></sub></td>
+    <td align="center" width="96"><img src="https://cdn.simpleicons.org/cpanel/FF6C2C" width="42" height="48" alt="CPanel"/><br/><sub><b>CPanel</b></sub></td>
+    <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/svg/1f5a5.svg" width="40" height="48" alt="aaPanel"/><br/><sub><b>aaPanel</b></sub></td>
+    <td align="center" width="96"></td>
+    <td align="center" width="96"></td>
+    <td align="center" width="96"></td>
+  </tr>
+</table>
 
 ---
 
 ### 📚 Familiar
 
-<p align="left">
-
-  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native" />
-  <img src="https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=chartdotjs&logoColor=white" alt="Chart.js" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white" alt="AWS" />
-  <img src="https://img.shields.io/badge/Vitest-6E9F18?style=for-the-badge&logo=vitest&logoColor=white" alt="Vitest" />
-  <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" alt="Jest" />
-  <img src="https://img.shields.io/badge/Web_Scraping-47A248?style=for-the-badge&logo=python&logoColor=white" alt="Web Scraping" />
-  <img src="https://img.shields.io/badge/Data_Analysis-013243?style=for-the-badge&logo=pandas&logoColor=white" alt="Data Analysis" />
-
-</p>
+<table>
+  <tr>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React Native"/><br/><sub><b>React Native</b></sub></td>
+    <td align="center" width="96"><img src="https://cdn.simpleicons.org/chartdotjs/FF6384" width="42" height="48" alt="Chart.js"/><br/><sub><b>Chart.js</b></sub></td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="Docker"/><br/><sub><b>Docker</b></sub></td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=aws" width="48" height="48" alt="AWS"/><br/><sub><b>AWS</b></sub></td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=graphql" width="48" height="48" alt="GraphQL"/><br/><sub><b>GraphQL</b></sub></td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=vitest" width="48" height="48" alt="Vitest"/><br/><sub><b>Vitest</b></sub></td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=jest" width="48" height="48" alt="Jest"/><br/><sub><b>Jest</b></sub></td>
+  </tr>
+  <tr>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=npm" width="48" height="48" alt="NPM"/><br/><sub><b>NPM</b></sub></td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=yarn" width="48" height="48" alt="Yarn"/><br/><sub><b>Yarn</b></sub></td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=pnpm" width="48" height="48" alt="PNPM"/><br/><sub><b>PNPM</b></sub></td>
+    <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/svg/1f40d.svg" width="40" height="48" alt="PythonAnywhere"/><br/><sub><b>PythonAnywhere</b></sub></td>
+    <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/svg/1f5fa.svg" width="40" height="48" alt="MarkMapJs"/><br/><sub><b>MarkMapJs</b></sub></td>
+    <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/svg/1f577.svg" width="40" height="48" alt="Web Scraping"/><br/><sub><b>Web Scraping</b></sub></td>
+    <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/svg/1f4ca.svg" width="40" height="48" alt="Data Analysis"/><br/><sub><b>Data Analysis</b></sub></td>
+  </tr>
+</table>
 
 ---
 
-## 🛠️ Tools & Platforms
+## 🛠️ Tools
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,discord,firebase,netlify,heroku,vercel&theme=dark" height="48" alt="Tools" />
-</p>
+<table>
+  <tr>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git"/><br/><sub><b>Git</b></sub></td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="GitHub"/><br/><sub><b>GitHub</b></sub></td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VS Code"/><br/><sub><b>VS Code</b></sub></td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=postman" width="48" height="48" alt="Postman"/><br/><sub><b>Postman</b></sub></td>
+    <td align="center" width="96"><img src="https://cdn.simpleicons.org/jira/2684FF" width="42" height="48" alt="Jira"/><br/><sub><b>Jira</b></sub></td>
+    <td align="center" width="96"><img src="https://cdn.simpleicons.org/trello/0079BF" width="42" height="48" alt="Trello"/><br/><sub><b>Trello</b></sub></td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=figma" width="48" height="48" alt="Figma"/><br/><sub><b>Figma</b></sub></td>
+  </tr>
+  <tr>
+    <td align="center" width="96"><img src="https://cdn.simpleicons.org/slack/E01E5A" width="42" height="48" alt="Slack"/><br/><sub><b>Slack</b></sub></td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=discord" width="48" height="48" alt="Discord"/><br/><sub><b>Discord</b></sub></td>
+    <td align="center" width="96"><img src="https://cdn.simpleicons.org/googlechrome/4285F4" width="42" height="48" alt="Chrome DevTools"/><br/><sub><b>Chrome DevTools</b></sub></td>
+    <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/svg/1fa84.svg" width="40" height="48" alt="Whimsical"/><br/><sub><b>Whimsical</b></sub></td>
+    <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/svg/1f9e9.svg" width="40" height="48" alt="Elfsight"/><br/><sub><b>Elfsight</b></sub></td>
+    <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/svg/1f4cb.svg" width="40" height="48" alt="Jotform"/><br/><sub><b>Jotform</b></sub></td>
+    <td align="center" width="96"></td>
+  </tr>
+</table>
 
-<p align="left">
+## ☁️ Platforms & Deployment
 
-  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="Jira" />
-  <img src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white" alt="Trello" />
-  <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" alt="Slack" />
-  <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black" alt="Render" />
-
-</p>
+<table>
+  <tr>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=firebase" width="48" height="48" alt="Firebase"/><br/><sub><b>Firebase</b></sub></td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=netlify" width="48" height="48" alt="Netlify"/><br/><sub><b>Netlify</b></sub></td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=vercel" width="48" height="48" alt="Vercel"/><br/><sub><b>Vercel</b></sub></td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=heroku" width="48" height="48" alt="Heroku"/><br/><sub><b>Heroku</b></sub></td>
+    <td align="center" width="96"><img src="https://cdn.simpleicons.org/render/46E3B7" width="42" height="48" alt="Render"/><br/><sub><b>Render</b></sub></td>
+  </tr>
+</table>
 
 ---
 
@@ -155,13 +220,13 @@
   <a href="https://github.com/ProgrammerShahJalal/meeting-room-booking">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=ProgrammerShahJalal&repo=meeting-room-booking&theme=tokyonight&hide_border=true" alt="Meeting Room Booking" />
   </a>
-  <a href="https://github.com/ProgrammerShahJalal/car-selling-website">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ProgrammerShahJalal&repo=car-selling-website&theme=tokyonight&hide_border=true" alt="Car Selling Website" />
+  <a href="https://github.com/ProgrammerShahJalal/collabflow">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ProgrammerShahJalal&repo=collabflow&theme=tokyonight&hide_border=true" alt="CollabFlow" />
   </a>
 </div>
 
 <div align="center">
-  <a href="https://shah-jalal.netlify.app/"><b>🔗 See more case studies on my portfolio →</b></a>
+  <a href="https://shah-jalal.netlify.app/case-studies"><b>🔗 See more case studies on my portfolio →</b></a>
 </div>
 
 ---
