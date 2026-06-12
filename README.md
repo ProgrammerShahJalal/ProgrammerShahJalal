@@ -178,7 +178,7 @@ A Software Engineer with **3.5+ years of professional experience** shipping prod
     <td align="center" width="96"><img src="https://cdn.simpleicons.org/reactquery/FF4154" width="42" height="48" alt="TanStack"/><br/><sub><b>TanStack</b></sub><br/><sub>Query · Form · Router · Table</sub></td>
     <td align="center" width="96"><img src="https://cdn.simpleicons.org/zod/3068B7" width="42" height="48" alt="Zod"/><br/><sub><b>Zod</b></sub></td>
     <td align="center" width="96"><img src="https://cdn.simpleicons.org/cpanel/FF6C2C" width="42" height="48" alt="CPanel"/><br/><sub><b>CPanel</b></sub></td>
-    <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/svg/1f5a5.svg" width="40" height="48" alt="aaPanel"/><br/><sub><b>aaPanel</b></sub></td>
+    <td align="center" width="96"></td>
     <td align="center" width="96"></td>
     <td align="center" width="96"></td>
     <td align="center" width="96"></td>
@@ -225,12 +225,21 @@ A Software Engineer with **3.5+ years of professional experience** shipping prod
     <td align="center" width="96"><img src="https://skillicons.dev/icons?i=figma" width="48" height="48" alt="Figma"/><br/><sub><b>Figma</b></sub></td>
   </tr>
   <tr>
-    <td align="center" width="96"><img src="https://cdn.simpleicons.org/slack/E01E5A" width="42" height="48" alt="Slack"/><br/><sub><b>Slack</b></sub></td>
+    <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" width="42" height="48" alt="Slack"/><br/><sub><b>Slack</b></sub></td>
     <td align="center" width="96"><img src="https://skillicons.dev/icons?i=discord" width="48" height="48" alt="Discord"/><br/><sub><b>Discord</b></sub></td>
     <td align="center" width="96"><img src="https://cdn.simpleicons.org/googlechrome/4285F4" width="42" height="48" alt="Chrome DevTools"/><br/><sub><b>Chrome DevTools</b></sub></td>
     <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/svg/1fa84.svg" width="40" height="48" alt="Whimsical"/><br/><sub><b>Whimsical</b></sub></td>
     <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/svg/1f9e9.svg" width="40" height="48" alt="Elfsight"/><br/><sub><b>Elfsight</b></sub></td>
     <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/svg/1f4cb.svg" width="40" height="48" alt="Jotform"/><br/><sub><b>Jotform</b></sub></td>
+    <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/svg/1f6f8.svg" width="40" height="48" alt="Antigravity"/><br/><sub><b>Antigravity</b></sub></td>
+  </tr>
+  <tr>
+    <td align="center" width="96"><img src="https://cdn.simpleicons.org/googlegemini/8E75B2" width="42" height="48" alt="Jules"/><br/><sub><b>Jules</b></sub></td>
+    <td align="center" width="96"></td>
+    <td align="center" width="96"></td>
+    <td align="center" width="96"></td>
+    <td align="center" width="96"></td>
+    <td align="center" width="96"></td>
     <td align="center" width="96"></td>
   </tr>
 </table>
@@ -243,7 +252,12 @@ A Software Engineer with **3.5+ years of professional experience** shipping prod
     <td align="center" width="96"><img src="https://skillicons.dev/icons?i=netlify" width="48" height="48" alt="Netlify"/><br/><sub><b>Netlify</b></sub></td>
     <td align="center" width="96"><img src="https://skillicons.dev/icons?i=vercel" width="48" height="48" alt="Vercel"/><br/><sub><b>Vercel</b></sub></td>
     <td align="center" width="96"><img src="https://skillicons.dev/icons?i=heroku" width="48" height="48" alt="Heroku"/><br/><sub><b>Heroku</b></sub></td>
+  </tr>
+  <tr>
     <td align="center" width="96"><img src="https://cdn.simpleicons.org/render/46E3B7" width="42" height="48" alt="Render"/><br/><sub><b>Render</b></sub></td>
+    <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/svg/1f5a5.svg" width="40" height="48" alt="aaPanel"/><br/><sub><b>aaPanel</b></sub></td>
+    <td align="center" width="96"><img src="https://cdn.simpleicons.org/hostinger/673DE6" width="42" height="48" alt="Hostinger"/><br/><sub><b>Hostinger</b></sub></td>
+    <td align="center" width="96"><img src="https://cdn.simpleicons.org/godaddy/1BDBDB" width="42" height="48" alt="GoDaddy"/><br/><sub><b>GoDaddy</b></sub></td>
   </tr>
 </table>
 
