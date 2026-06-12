@@ -10,6 +10,7 @@
 
 <div align="center">
 
+  <img src="https://img.shields.io/badge/%F0%9F%92%BC_Open_to_Full--Time_Opportunities-2EA043?style=for-the-badge" alt="Open to Work" />
   <img src="https://komarev.com/ghpvc/?username=ProgrammerShahJalal&label=Profile%20Views&color=36bcf7&style=for-the-badge" alt="Profile Views" />
 
 </div>
@@ -32,11 +33,14 @@
 
 ## 👨‍💻 About Me
 
-- 🔭 Currently building scalable full-stack apps with **MERN, NestJS & MikroORM**
-- 🌱 Exploring **multi-tenancy architecture** and system design
-- 💼 Open to **freelance & full-time** opportunities — clients in 6+ countries
-- 💬 Ask me about **React, Next.js, Node.js, TypeScript**
-- 📍 Based in **Dhaka, Bangladesh** 🇧🇩
+A Software Engineer who ships **production-grade, full-stack web applications** end to end — from database schema and API design to polished, responsive UIs.
+
+- 🎯 **Actively seeking full-time Software Engineer / Full Stack Developer roles** (remote or on-site)
+- 🔭 Currently building scalable apps with **MERN, NestJS, MikroORM & multi-tenant architecture**
+- 🌍 Shipped products for businesses across **6+ countries** — experienced in **remote collaboration, async communication & owning features from spec to deployment**
+- 🧪 Care about **clean code, type safety (TypeScript everywhere), testing & code reviews**
+- 💬 Ask me about **React, Next.js, Node.js, NestJS, TypeScript**
+- 📍 Based in **Dhaka, Bangladesh** 🇧🇩 — open to remote & relocation
 
 ---
 
@@ -216,6 +220,8 @@
 
 ## 📌 Featured Projects
 
+Real products I've designed, built & shipped — not tutorials.
+
 <div align="center">
   <a href="https://github.com/ProgrammerShahJalal/meeting-room-booking">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=ProgrammerShahJalal&repo=meeting-room-booking&theme=tokyonight&hide_border=true" alt="Meeting Room Booking" />
@@ -281,6 +287,8 @@
 ---
 
 ## 📫 Reach Me
+
+**Hiring for a Full Stack / Software Engineer role?** The fastest way to reach me is LinkedIn — happy to share my resume, walk through case studies, or take a technical screen.
 
 <div align="center">
 
