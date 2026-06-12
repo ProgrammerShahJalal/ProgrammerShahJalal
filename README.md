@@ -23,6 +23,7 @@
 
 <div align="center">
 
+[![Resume](https://img.shields.io/badge/📄_Resume-2EA043?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1XQ_7a24XzWALpDnlpKzCNRkN7rmJwqLI/view)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://shah-jalal.netlify.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ProgrammerShahJalal/)
 [![Google Business](https://img.shields.io/badge/Google_Business-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://shorturl.at/CIPT1)
@@ -33,14 +34,44 @@
 
 ## 👨‍💻 About Me
 
-A Software Engineer who ships **production-grade, full-stack web applications** end to end — from database schema and API design to polished, responsive UIs.
+A Software Engineer with **4+ years of professional experience** shipping production-grade, full-stack web applications end to end — from database schema and API design to polished, responsive UIs.
 
-- 🎯 **Actively seeking full-time Software Engineer / Full Stack Developer roles** (remote or on-site)
-- 🔭 Currently building scalable apps with **MERN, NestJS, MikroORM & multi-tenant architecture**
+- 🎯 **Actively seeking full-time Software Engineer / Full Stack Developer roles** (remote or on-site) — **available to start immediately**
+- 🔭 Most recently built **education & coaching-management platforms** at Tech Park IT with **NestJS, MikroORM & multi-tenant architecture**
 - 🌍 Shipped products for businesses across **6+ countries** — experienced in **remote collaboration, async communication & owning features from spec to deployment**
-- 🧪 Care about **clean code, type safety (TypeScript everywhere), testing & code reviews**
-- 💬 Ask me about **React, Next.js, Node.js, NestJS, TypeScript**
+- 👥 Led developer teams as **Founder & Team Leader** — comfortable with code reviews, mentoring & stakeholder communication
+- 🧪 Care about **clean code, type safety (TypeScript everywhere) & testing**
 - 📍 Based in **Dhaka, Bangladesh** 🇧🇩 — open to remote & relocation
+
+---
+
+## 💼 Work Experience
+
+### Software Engineer · **Tech Park IT** <sub>— Full-time · Dhaka, Bangladesh · Jan 2025 – May 2026</sub>
+
+- Single-handedly developed and deployed **IREAD**, a full-stack educational platform — implemented the complete database schema and built scalable, user-friendly features for students and educators.
+- Built **Probaha**, a coaching management system with scheduling, progress tracking, and user engagement features to streamline coaching operations.
+- Collaborated with stakeholders and database designers to align development with requirements, delivering secure, performant, and maintainable codebases.
+
+### Founder & Team Leader · **Elite Developer Unity** <sub>— Full-time · Remote · Dec 2023 – Jan 2025</sub>
+
+- Founded a development agency: defined vision and strategic direction while staying hands-on in delivery.
+- Oversaw project execution, managed team collaboration, and ensured on-time delivery of high-quality solutions for partners.
+
+### React Developer · **DoWell Research Singapore** <sub>— Contract · Singapore (Remote) · May 2023 – Sep 2023</sub>
+
+- Collaborated with an international research team on user experience research tooling.
+- Specialized in Open Innovation, User Experience, and Innovation Measurement, applying React to drive research products.
+
+### Full Stack Developer (Team Leader) · **Ongshak** <sub>— Contract · Dhaka, Bangladesh · Apr 2022 – Oct 2022</sub>
+
+- Engineered the **Psycure** mental-health web app and led the developer team.
+- Built core features: video sessions, Homework Builder, appointment booking, search, filtering, and pagination.
+- Developed JWT-authenticated private dashboards for patients, psychologists, and admins, enabling personalized homework scheduling and approval workflows.
+
+<div align="center">
+  <a href="https://drive.google.com/file/d/1XQ_7a24XzWALpDnlpKzCNRkN7rmJwqLI/view"><b>📄 Full details in my resume →</b></a>
+</div>
 
 ---
 
@@ -288,10 +319,11 @@ Real products I've designed, built & shipped — not tutorials.
 
 ## 📫 Reach Me
 
-**Hiring for a Full Stack / Software Engineer role?** The fastest way to reach me is LinkedIn — happy to share my resume, walk through case studies, or take a technical screen.
+**Hiring for a Full Stack / Software Engineer role?** I'm available to start immediately. The fastest way to reach me is LinkedIn — happy to walk through case studies or take a technical screen.
 
 <div align="center">
 
+[![Resume](https://img.shields.io/badge/📄_View_My_Resume-2EA043?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1XQ_7a24XzWALpDnlpKzCNRkN7rmJwqLI/view)
 [![Portfolio](https://img.shields.io/badge/Visit_My_Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://shah-jalal.netlify.app/)
 [![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ProgrammerShahJalal/)
 [![GitHub](https://img.shields.io/badge/Follow_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ProgrammerShahJalal)
