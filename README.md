@@ -34,7 +34,7 @@
 
 ## 👨‍💻 About Me
 
-A Software Engineer with **4+ years of professional experience** shipping production-grade, full-stack web applications end to end — from database schema and API design to polished, responsive UIs.
+A Software Engineer with **3.5+ years of professional experience** shipping production-grade, full-stack web applications end to end — from database schema and API design to polished, responsive UIs.
 
 - 🎯 **Actively seeking full-time Software Engineer / Full Stack Developer roles** (remote or on-site) — **available to start immediately**
 - 🔭 Most recently built **education & coaching-management platforms** at Tech Park IT with **NestJS, MikroORM & multi-tenant architecture**
@@ -53,10 +53,10 @@ A Software Engineer with **4+ years of professional experience** shipping produc
 - Built **Probaha**, a coaching management system with scheduling, progress tracking, and user engagement features to streamline coaching operations.
 - Collaborated with stakeholders and database designers to align development with requirements, delivering secure, performant, and maintainable codebases.
 
-### Founder & Team Leader · **Elite Developer Unity** <sub>— Full-time · Remote · Dec 2023 – Jan 2025</sub>
+### Founder & Team Leader · **Elite Developer Unity** <sub>— Self-employed · Remote · Dec 2023 – Jan 2025</sub>
 
-- Founded a development agency: defined vision and strategic direction while staying hands-on in delivery.
-- Oversaw project execution, managed team collaboration, and ensured on-time delivery of high-quality solutions for partners.
+- Founded a small development team and led **4 developers**, delivering **2 client projects end to end** — from requirements and task breakdown to code review and deployment.
+- Handled client communication, sprint planning, and quality control while staying hands-on with full-stack development.
 
 ### React Developer · **DoWell Research Singapore** <sub>— Contract · Singapore (Remote) · May 2023 – Sep 2023</sub>
 
