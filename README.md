@@ -236,7 +236,7 @@ A Software Engineer with **3.5+ years of professional experience** shipping prod
   </tr>
   <tr>
     <td align="center" width="96"><img src="https://cdn.simpleicons.org/googlegemini/8E75B2" width="42" height="48" alt="Jules"/><br/><sub><b>Jules</b></sub></td>
-    <td align="center" width="96"></td>
+    <td align="center" width="96"><img src="https://cdn.simpleicons.org/zapier/FF4A00" width="42" height="48" alt="Zapier"/><br/><sub><b>Zapier</b></sub></td>
     <td align="center" width="96"></td>
     <td align="center" width="96"></td>
     <td align="center" width="96"></td>
