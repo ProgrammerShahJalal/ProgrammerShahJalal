@@ -272,11 +272,11 @@ Real products I've designed, built & shipped — not tutorials.
 
 <div align="center">
   <a href="https://github.com/ProgrammerShahJalal/collabflow">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ProgrammerShahJalal&repo=collabflow&theme=tokyonight&hide_border=true" alt="CollabFlow" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ProgrammerShahJalal&repo=collabflow&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="CollabFlow" />
   </a>
   
   <a href="https://github.com/ProgrammerShahJalal/meeting-room-booking">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ProgrammerShahJalal&repo=meeting-room-booking&theme=tokyonight&hide_border=true" alt="Meeting Room Booking" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ProgrammerShahJalal&repo=meeting-room-booking&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="Meeting Room Booking" />
   </a>
 </div>
 
@@ -289,8 +289,8 @@ Real products I've designed, built & shipped — not tutorials.
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ProgrammerShahJalal&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="170" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ProgrammerShahJalal&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="170" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ProgrammerShahJalal&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=86400" height="170" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ProgrammerShahJalal&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=86400" height="170" alt="Top Languages" />
 </div>
 
 <div align="center">
