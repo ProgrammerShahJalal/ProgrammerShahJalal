@@ -134,6 +134,7 @@ A Software Engineer with **3.5+ years of professional experience** shipping prod
     <td align="center" width="96"><img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="MySQL"/><br/><sub><b>MySQL</b></sub></td>
     <td align="center" width="96"><img src="https://cdn.simpleicons.org/mongoose/CC3333" width="42" height="48" alt="Mongoose"/><br/><sub><b>Mongoose</b></sub></td>
     <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/svg/1f43f.svg" width="40" height="48" alt="MikroORM"/><br/><sub><b>MikroORM</b></sub></td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=supabase" width="48" height="48" alt="Supabase"/><br/><sub><b>Supabase</b></sub></td>
   </tr>
 </table>
 
@@ -252,12 +253,14 @@ A Software Engineer with **3.5+ years of professional experience** shipping prod
     <td align="center" width="96"><img src="https://skillicons.dev/icons?i=netlify" width="48" height="48" alt="Netlify"/><br/><sub><b>Netlify</b></sub></td>
     <td align="center" width="96"><img src="https://skillicons.dev/icons?i=vercel" width="48" height="48" alt="Vercel"/><br/><sub><b>Vercel</b></sub></td>
     <td align="center" width="96"><img src="https://skillicons.dev/icons?i=heroku" width="48" height="48" alt="Heroku"/><br/><sub><b>Heroku</b></sub></td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=supabase" width="48" height="48" alt="Supabase"/><br/><sub><b>Supabase</b></sub></td>
   </tr>
   <tr>
     <td align="center" width="96"><img src="https://cdn.simpleicons.org/render/46E3B7" width="42" height="48" alt="Render"/><br/><sub><b>Render</b></sub></td>
     <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/svg/1f5a5.svg" width="40" height="48" alt="aaPanel"/><br/><sub><b>aaPanel</b></sub></td>
     <td align="center" width="96"><img src="https://cdn.simpleicons.org/hostinger/673DE6" width="42" height="48" alt="Hostinger"/><br/><sub><b>Hostinger</b></sub></td>
     <td align="center" width="96"><img src="https://cdn.simpleicons.org/godaddy/1BDBDB" width="42" height="48" alt="GoDaddy"/><br/><sub><b>GoDaddy</b></sub></td>
+    <td align="center" width="96"></td>
   </tr>
 </table>
 
