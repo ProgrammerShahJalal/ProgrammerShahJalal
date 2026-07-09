@@ -272,7 +272,7 @@ Real products I've designed, built & shipped — not tutorials.
 
 <div align="center">
   <a href="https://github.com/ProgrammerShahJalal/collabflow">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?user=ProgrammerShahJalal&repo=collabflow&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="CollabFlow" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ProgrammerShahJalal&repo=collabflow&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="CollabFlow" />
   </a>
   
   <a href="https://github.com/ProgrammerShahJalal/meeting-room-booking">
