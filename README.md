@@ -4,6 +4,21 @@
   </a>
 </div>
 
+<table align="center">
+  <tr>
+    <td align="center" width="50%">
+      <a href="https://shah-jalal.netlify.app/case-studies">
+        <img src="assets/featured-case-studies.png" width="100%" alt="Visit My Case Studies — Websites, Web Apps & Software"/>
+      </a>
+    </td>
+    <td align="center" width="50%">
+      <a href="https://cal.com/md-shah-jalal-wbyqoq/strategy-call">
+        <img src="assets/featured-schedule-call.png" width="100%" alt="Schedule a free 1:1 strategy call"/>
+      </a>
+    </td>
+  </tr>
+</table>
+
 <div align="center">
   <a href="https://github.com/ProgrammerShahJalal">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+%F0%9F%9A%80;MERN+Stack+Specialist+%E2%9A%9B%EF%B8%8F;NestJS+%7C+MikroORM+%7C+Multi-Tenancy;TypeScript+%7C+Next.js+%7C+Node.js;Problem+Solver+%F0%9F%92%A1;Always+Learning+New+Things+%F0%9F%93%9A" alt="Typing SVG" />
@@ -19,21 +34,6 @@
 </div>
 
 <br/>
-
-<table align="center">
-  <tr>
-    <td align="center" width="50%">
-      <a href="https://shah-jalal.netlify.app/case-studies">
-        <img src="assets/featured-case-studies.png" width="100%" alt="Visit My Case Studies — Websites, Web Apps & Software"/>
-      </a>
-    </td>
-    <td align="center" width="50%">
-      <a href="https://cal.com/md-shah-jalal-wbyqoq/strategy-call">
-        <img src="assets/featured-schedule-call.png" width="100%" alt="Schedule a free 1:1 strategy call"/>
-      </a>
-    </td>
-  </tr>
-</table>
 
 <div align="center">
 
