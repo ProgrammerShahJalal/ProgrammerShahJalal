@@ -1,5 +1,7 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=180&section=header&text=Md%20Shah%20Jalal&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%20%7C%20Full%20Stack%20Developer&descSize=18&descAlignY=58" width="100%"/>
+  <a href="https://shah-jalal.netlify.app/">
+    <img src="assets/linkedin-cover.png" width="100%" alt="Md Shah Jalal — Websites, Web Apps & Custom Software for Growing Businesses"/>
+  </a>
 </div>
 
 <div align="center">
@@ -11,15 +13,27 @@
 <div align="center">
 
   <img src="https://img.shields.io/badge/%F0%9F%92%BC_Open_to_Full--Time_Opportunities-2EA043?style=for-the-badge" alt="Open to Work" />
+  <img src="https://img.shields.io/badge/%F0%9F%9A%80_Taking_Freelance_Projects-0077B5?style=for-the-badge" alt="Taking Freelance Projects" />
   <img src="https://komarev.com/ghpvc/?username=ProgrammerShahJalal&label=Profile%20Views&color=36bcf7&style=for-the-badge" alt="Profile Views" />
 
 </div>
 
-<div align="center">
-  <a href="https://app.daily.dev/mdshahjalal">
-    <img src="https://api.daily.dev/devcards/v2/2IQlsR4aCwwzFhFnsyxAx.png?type=wide&r=nki" width="652" alt="Shah Jalal's Dev Card"/>
-  </a>
-</div>
+<br/>
+
+<table align="center">
+  <tr>
+    <td align="center" width="50%">
+      <a href="https://shah-jalal.netlify.app/case-studies">
+        <img src="assets/featured-case-studies.png" width="100%" alt="Visit My Case Studies — Websites, Web Apps & Software"/>
+      </a>
+    </td>
+    <td align="center" width="50%">
+      <a href="https://cal.com/md-shah-jalal-wbyqoq/strategy-call">
+        <img src="assets/featured-schedule-call.png" width="100%" alt="Schedule a free 1:1 strategy call"/>
+      </a>
+    </td>
+  </tr>
+</table>
 
 <div align="center">
 
@@ -36,9 +50,9 @@
 
 A Software Engineer with **3.5+ years of professional experience** shipping production-grade, full-stack web applications end to end — from database schema and API design to polished, responsive UIs.
 
-- 🎯 **Actively seeking full-time Software Engineer / Full Stack Developer roles** (remote or on-site) — **available to start immediately**
+- 🎯 **Open to full-time Software Engineer / Full Stack Developer roles** (remote or on-site) — **available to start immediately** — and **taking on select freelance projects**
 - 🔭 Most recently built **education & coaching-management platforms** at Tech Park IT with **NestJS, MikroORM & multi-tenant architecture**
-- 🌍 Shipped products for businesses across **8+ countries** — experienced in **remote collaboration, async communication & owning features from spec to deployment**
+- 🌍 Shipped products for businesses across **9+ countries** — experienced in **remote collaboration, async communication & owning features from spec to deployment**
 - 👥 Led developer teams as **Founder & Team Leader** — comfortable with code reviews, mentoring & stakeholder communication
 - 🧪 Care about **clean code, type safety (TypeScript everywhere) & testing**
 - 📍 Based in **Dhaka, Bangladesh** 🇧🇩 — open to remote & relocation
@@ -337,7 +351,7 @@ Real products I've designed, built & shipped — not tutorials.
 
 ## 📫 Reach Me
 
-**Hiring for a Full Stack / Software Engineer role?** I'm available to start immediately. The fastest way to reach me is LinkedIn — happy to walk through case studies or take a technical screen.
+**Hiring for a Full Stack / Software Engineer role, or need a website or web app built?** I'm available to start immediately. [Book a free 30-minute strategy call](https://cal.com/md-shah-jalal-wbyqoq/strategy-call), or reach me on LinkedIn — happy to walk through case studies or take a technical screen.
 
 <div align="center">
 
