@@ -48,7 +48,7 @@
 
 ## 👨‍💻 About Me
 
-A Software Engineer with **3.5+ years of professional experience** shipping production-grade, full-stack web applications end to end — from database schema and API design to polished, responsive UIs.
+A Software Engineer with **4.5+ years of professional experience** shipping production-grade, full-stack web applications end to end — from database schema and API design to polished, responsive UIs.
 
 - 🎯 **Open to full-time Software Engineer / Full Stack Developer roles** (remote or on-site) — **available to start immediately** — and **taking on select freelance projects**
 - 🔭 Most recently built **education & coaching-management platforms** at Tech Park IT with **NestJS, MikroORM & multi-tenant architecture**
