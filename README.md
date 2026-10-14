@@ -12,7 +12,7 @@
       </a>
     </td>
     <td align="center" width="50%">
-      <a href="https://cal.com/md-shah-jalal-wbyqoq/strategy-call">
+      <a href="https://cal.com/shah-jalal/strategy-call">
         <img src="assets/featured-schedule-call.png" width="100%" alt="Schedule a free 1:1 strategy call"/>
       </a>
     </td>
@@ -351,7 +351,7 @@ Real products I've designed, built & shipped — not tutorials.
 
 ## 📫 Reach Me
 
-**Hiring for a Full Stack / Software Engineer role, or need a website or web app built?** I'm available to start immediately. [Book a free 30-minute strategy call](https://cal.com/md-shah-jalal-wbyqoq/strategy-call), or reach me on LinkedIn — happy to walk through case studies or take a technical screen.
+**Hiring for a Full Stack / Software Engineer role, or need a website or web app built?** I'm available to start immediately. [Book a free 30-minute strategy call](https://cal.com/shah-jalal/strategy-call), or reach me on LinkedIn — happy to walk through case studies or take a technical screen.
 
 <div align="center">
 
