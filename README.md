@@ -52,7 +52,7 @@ A Software Engineer with **4.5+ years of professional experience** shipping prod
 
 - 🎯 **Open to full-time Software Engineer / Full Stack Developer roles** (remote or on-site) — **available to start immediately** — and **taking on select freelance projects**
 - 🔭 Most recently built **education & coaching-management platforms** at Tech Park IT with **NestJS, MikroORM & multi-tenant architecture**
-- 🌍 Shipped products for businesses across **9+ countries** — experienced in **remote collaboration, async communication & owning features from spec to deployment**
+- 🌍 Shipped products for businesses across **10+ countries** — experienced in **remote collaboration, async communication & owning features from spec to deployment**
 - 👥 Led developer teams as **Founder & Team Leader** — comfortable with code reviews, mentoring & stakeholder communication
 - 🧪 Care about **clean code, type safety (TypeScript everywhere) & testing**
 - 📍 Based in **Dhaka, Bangladesh** 🇧🇩 — open to remote & relocation
