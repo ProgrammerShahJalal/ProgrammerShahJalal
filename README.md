@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://shah-jalal.netlify.app/">
-    <img src="assets/linkedin-cover.png" width="100%" alt="Md Shah Jalal — Websites, Web Apps & Custom Software for Growing Businesses"/>
+    <img src="assets/linkedin-cover-lst.png" width="100%" alt="Md Shah Jalal — Websites, Web Apps & Custom Software for Growing Businesses"/>
   </a>
 </div>
 
