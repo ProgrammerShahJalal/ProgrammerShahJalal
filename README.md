@@ -20,7 +20,7 @@
 </table>
 
 <div align="center">
-  <a href="https://github.com/ProgrammerShahJalal">
+  <a href="https://github.com/shahjalaldev">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+%F0%9F%9A%80;MERN+Stack+Specialist+%E2%9A%9B%EF%B8%8F;NestJS+%7C+MikroORM+%7C+Multi-Tenancy;TypeScript+%7C+Next.js+%7C+Node.js;Problem+Solver+%F0%9F%92%A1;Always+Learning+New+Things+%F0%9F%93%9A" alt="Typing SVG" />
   </a>
 </div>
@@ -29,7 +29,7 @@
 
   <img src="https://img.shields.io/badge/%F0%9F%92%BC_Open_to_Full--Time_Opportunities-2EA043?style=for-the-badge" alt="Open to Work" />
   <img src="https://img.shields.io/badge/%F0%9F%9A%80_Taking_Freelance_Projects-0077B5?style=for-the-badge" alt="Taking Freelance Projects" />
-  <img src="https://komarev.com/ghpvc/?username=ProgrammerShahJalal&label=Profile%20Views&color=36bcf7&style=for-the-badge" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=shahjalaldev&label=Profile%20Views&color=36bcf7&style=for-the-badge" alt="Profile Views" />
 
 </div>
 
@@ -39,7 +39,7 @@
 
 [![Resume](https://img.shields.io/badge/📄_Resume-2EA043?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1XQ_7a24XzWALpDnlpKzCNRkN7rmJwqLI/view)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://shah-jalal.netlify.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ProgrammerShahJalal/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shahjalaldev/)
 [![Google Business](https://img.shields.io/badge/Google_Business-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://shorturl.at/CIPT1)
 
 </div>
@@ -285,12 +285,12 @@ A Software Engineer with **4.5+ years of professional experience** shipping prod
 Real products I've designed, built & shipped — not tutorials.
 
 <div align="center">
-  <a href="https://github.com/ProgrammerShahJalal/collabflow">
-    <img src="https://github-stats-extended.vercel.app/api/pin/?username=ProgrammerShahJalal&repo=collabflow&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="CollabFlow" />
+  <a href="https://github.com/shahjalaldev/collabflow">
+    <img src="https://github-stats-extended.vercel.app/api/pin/?username=shahjalaldev&repo=collabflow&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="CollabFlow" />
   </a>
   
-  <a href="https://github.com/ProgrammerShahJalal/meeting-room-booking">
-    <img src="https://github-stats-extended.vercel.app/api/pin/?username=ProgrammerShahJalal&repo=meeting-room-booking&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="Meeting Room Booking" />
+  <a href="https://github.com/shahjalaldev/meeting-room-booking">
+    <img src="https://github-stats-extended.vercel.app/api/pin/?username=shahjalaldev&repo=meeting-room-booking&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="Meeting Room Booking" />
   </a>
 </div>
 
@@ -303,16 +303,16 @@ Real products I've designed, built & shipped — not tutorials.
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-stats-extended.vercel.app/api?username=ProgrammerShahJalal&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=86400" height="170" alt="GitHub Stats" />
-  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=ProgrammerShahJalal&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=86400" height="170" alt="Top Languages" />
+  <img src="https://github-stats-extended.vercel.app/api?username=shahjalaldev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=86400" height="170" alt="GitHub Stats" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=shahjalaldev&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=86400" height="170" alt="Top Languages" />
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=ProgrammerShahJalal&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=shahjalaldev&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ProgrammerShahJalal&theme=tokyo-night&hide_border=true&area=true" width="95%" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shahjalaldev&theme=tokyo-night&hide_border=true&area=true" width="95%" alt="Contribution Graph" />
 </div>
 
 ---
@@ -357,8 +357,8 @@ Real products I've designed, built & shipped — not tutorials.
 
 [![Resume](https://img.shields.io/badge/📄_View_My_Resume-2EA043?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1XQ_7a24XzWALpDnlpKzCNRkN7rmJwqLI/view)
 [![Portfolio](https://img.shields.io/badge/Visit_My_Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://shah-jalal.netlify.app/)
-[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ProgrammerShahJalal/)
-[![GitHub](https://img.shields.io/badge/Follow_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ProgrammerShahJalal)
+[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shahjalaldev/)
+[![GitHub](https://img.shields.io/badge/Follow_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shahjalaldev)
 
 </div>
 
